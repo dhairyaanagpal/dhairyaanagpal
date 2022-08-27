@@ -30,6 +30,8 @@ I am a Human-Computer Interaction Researcher & Usability Engineer.
 
 - :envelope:  To collaborate on research projects, reach me at dhairyanagpalwork@gmail.com
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
@@ -46,5 +48,7 @@ I am a Human-Computer Interaction Researcher & Usability Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 
