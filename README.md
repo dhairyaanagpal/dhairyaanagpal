@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Dhairya Nagpal :zap:
 
 <!--
 **dhairyaanagpal/dhairyaanagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +29,5 @@ I am a Human-Computer Interaction Researcher & Usability Engineer.
 - :memo:  In my free time, I love to paint, sketch, dance, vlog & travel
 
 - :envelope:  To collaborate on research projects, reach me at dhairyanagpalwork@gmail.com
+
+
