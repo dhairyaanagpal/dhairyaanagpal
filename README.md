@@ -23,4 +23,8 @@ I am a Human-Computer Interaction Researcher & Usability Engineer.
 
 - :mortar_board: I'm a Human-Computer Interaction Major at Delhi Technological University & Data Science Major at Indian Institute of Technology, Madras 
 
-- :mailbox: How to reach me dhairyanagpalwork@gmail.com
+- :office: I've previously worked in HCI, UX & PM roles across both Academia & Industry.
+
+- :memo: In my free time, I love to paint, sketch, dance, vlog & travel
+
+- :envelope: To collaborate on research projects, reach me at dhairyanagpalwork@gmail.com
