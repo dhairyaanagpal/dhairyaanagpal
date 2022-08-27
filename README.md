@@ -23,7 +23,7 @@ I am a Human-Computer Interaction Researcher & Usability Engineer.
 
 - :mortar_board: I'm a Human-Computer Interaction Major at Delhi Technological University & Data Science Major at Indian Institute of Technology, Madras 
 
-- :office_bag: I've previously worked in HCI, UX & PM roles across both Academia & Industry.
+- :briefcase: I've previously worked in HCI, UX & PM roles across both Academia & Industry.
 
 - :memo: In my free time, I love to paint, sketch, dance, vlog & travel
 
