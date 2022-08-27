@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :man_technologist: About Me : 
+
+I am a Human-Computer Interaction Researcher & Usability Engineer.
+
+- :telescope: I’m working as an HCI Researcher in Blockchain-based NFT Gaming, Dark Pattern Models & Consumer Behaviour. 
+
+- :mortar_board: I'm a Human-Computer Interaction Major at Delhi Technological University & Data Science Major at Indian Institute of Technology, Madras 
+
