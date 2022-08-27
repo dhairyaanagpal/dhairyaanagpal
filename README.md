@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 I am a Human-Computer Interaction Researcher & Usability Engineer.
 
-- :telescope: I’m working as an HCI Researcher in Blockchain-based NFT Gaming, Dark Pattern Models & Consumer Behaviour. 
+- :telescope:  I’m working as an HCI Researcher in Blockchain-based NFT Gaming, Dark Pattern Models & Consumer Behaviour. 
 
-- :mortar_board: I'm a Human-Computer Interaction Major at Delhi Technological University & Data Science Major at Indian Institute of Technology, Madras 
+- :mortar_board:  I'm a Human-Computer Interaction Major at Delhi Technological University & Data Science Major at Indian Institute of Technology, Madras 
 
-- :briefcase: I've previously worked in HCI, UX & PM roles across both Academia & Industry.
+- :briefcase:  I've previously worked in HCI, UX & PM roles across both Academia & Industry.
 
-- :memo: In my free time, I love to paint, sketch, dance, vlog & travel
+- :memo:  In my free time, I love to paint, sketch, dance, vlog & travel
 
-- :envelope: To collaborate on research projects, reach me at dhairyanagpalwork@gmail.com
+- :envelope:  To collaborate on research projects, reach me at dhairyanagpalwork@gmail.com
