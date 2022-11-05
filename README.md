@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me : 
 
-I am a Human-Computer Interaction Researcher & Usability Engineer.
+I am a Human-Computer Interaction Researcher, Usability Engineer & Product Manager.
 
 - :telescope:  I’m working as an HCI Researcher in Blockchain-based NFT Gaming, Dark Pattern Models & Consumer Behaviour. 
 
