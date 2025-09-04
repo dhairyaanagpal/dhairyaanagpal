@@ -18,17 +18,19 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me : 
 
-I am a Human-Computer Interaction Researcher, Usability Engineer & Product Manager.
+I am a Product Manager, Human-Computer Interaction Researcher, Usability Engineer, and Tech Policy Advocate, currently building and scaling the **Product & UX Studio at Damco Group**, leading the creation of a future-facing studio within a global enterprise ecosystem.
 
-- :telescope:  I’m working as an HCI Researcher in Blockchain-based NFT Gaming, Dark Pattern Models & Consumer Behaviour. 
+🏅 I am a **Gold Medalist (Rank 01)** in Human-Computer Interaction from **Delhi Technological University** and also pursued **Data Science & Programming** at **IIT Madras**.
 
-- :mortar_board:  I'm a Human-Computer Interaction Major at Delhi Technological University & Data Science Major at Indian Institute of Technology, Madras 
+💼 My professional journey spans across both **academia & industry**:
+- 🚀 **Product Management & Strategy** roles at **Zomato**, **Housing.com**, **Mobile Premier League**, **Atom EI**  
+- 🔍 **UX Research** with **Hike**, **Rush Gaming Universe**, **IIT Delhi**, **Concordia University**, **UPES**  
+- 📊 **Behavioral & Market Research** with **SPJIMR**, **ASB**, **ISB**  
+- 📣 **Marketing & Content** with **Philips**, **OnePlus**
 
-- :briefcase:  I've previously worked in HCI, UX & PM roles across both Academia & Industry.
+🌐 I’m also a **United Nation Foundation Fellow**, working on ethical mediation in emerging tech policy, and **co-author** of *India in Future Tense: 47 Words for 2047*—a visionary dictionary exploring India's aspirations for 2047.
 
-- :memo:  In my free time, I love to paint, sketch, dance, vlog & travel
-
-- :envelope:  To collaborate on research projects, reach me at dhairyanagpalwork@gmail.com
+🎨 Outside work, I’m an **artist and sculptor**—founder of the **Dhairya Nagpal Store (DNS)**, with multiple exhibitions and workshops at orgs like Palo Alto Networks & Creencia.
 
 ---
 
