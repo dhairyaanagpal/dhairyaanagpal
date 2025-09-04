@@ -34,6 +34,15 @@ I am a Product Manager, Human-Computer Interaction Researcher, Usability Enginee
 
 ---
 
+### 🧠 Interests & Skills :
+
+- 🧪 **Research Areas**: HCI, UXR, Cognitive Neuroscience, Usability Engineering, Mixed Methods, Social Computing  
+- 🧭 **Product Thinking**: Strategy, GTM, CX, CJM, Roadmapping, A/B Testing, Service Design  
+- 🧮 **Tech & Data**: AI/ML in HCI, AR/VR, HAI, BCI, Eye Tracking, EMG, Inclusive Tech  
+- 💡 **Design**: Wireframing, Universal Design, Heuristics, HCD
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
